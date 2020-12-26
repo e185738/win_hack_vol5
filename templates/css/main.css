@@ -1,0 +1,22 @@
+* {
+  overflow: scroll;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+body{
+    background: rgba(247,247,247,1);
+}
+
+.nengajo1 {
+  width: 408px;
+  height: 615px;
+  background: url("../images/nengajo1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 182px;
+  left: 556px;
+  overflow: hidden;
+}
