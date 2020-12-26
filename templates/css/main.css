@@ -20,3 +20,22 @@ body{
   left: 556px;
   overflow: hidden;
 }
+
+.text{
+    width: 200px;
+    height: 300px;
+    resize: none;
+    position: relative; top: 300px;
+    overflow: hidden;
+    font-size: 17px;
+    font-family: "Noto Serif JP", serif;
+    font-feature-settings: "palt";
+    color: #2c3e50;
+    line-height: 2em;
+    text-indent: 1em;
+}
+
+.submit{
+    position: absolute; top: 800px;
+    position: absolute; left: 700px;
+}
