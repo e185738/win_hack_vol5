@@ -6,7 +6,6 @@
 body{
     background: rgba(247,247,247,1);
 }
-
 .nengajo1 {
   width: 408px;
   height: 615px;
@@ -20,7 +19,6 @@ body{
   left: 556px;
   overflow: hidden;
 }
-
 .text{
     width: 200px;
     height: 300px;
@@ -36,10 +34,13 @@ body{
     border: none;
     outline: none;
 }
-
 .submit{
     position: absolute; top: 800px;
     position: absolute; left: 700px;
+}
+.receive{
+  position: absolute; top: 800px;
+  position: absolute; left: 800px;
 }
 
 /* .send_text{
@@ -55,5 +56,4 @@ body{
   line-height: 2em;
   text-indent: 1em;
   /* border: none;
-  outline: none; */ */
-}
+  outline: none; */ 
