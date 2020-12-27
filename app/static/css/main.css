@@ -4,7 +4,8 @@
   margin: 0px !important;
 }
 body{
-    background: rgba(247,247,247,1);
+  background-image: url("../images/back1.jpg");
+  background-size: cover;
 }
 .nengajo1 {
   width: 408px;
@@ -42,18 +43,7 @@ body{
   position: absolute; top: 800px;
   position: absolute; left: 800px;
 }
-
-/* .send_text{
-  width: 200px;
-  height: 300px;
-  resize: none;
-  position: relative; top: 300px;
-  overflow: hidden;
-  font-size: 17px;
-  font-family: "Noto Serif JP", serif;
-  font-feature-settings: "palt";
-  color: #2c3e50;
-  line-height: 2em;
-  text-indent: 1em;
-  /* border: none;
-  outline: none; */ 
+.title{
+  position: absolute; top: 80px;
+  position: absolute; left: 570px;
+}
